@@ -8,14 +8,14 @@ import java.util.* ;
  */
 public class App {
 	
-	static void show() {
+	static void disply() {
 	}
 	
 	public static void main(String[] args) {
 		
-		show();
+		disply();
 		System.out.println("ok");
-		System.out.println("great");
+		System.out.println("great Women");
 		
 		{
 			
