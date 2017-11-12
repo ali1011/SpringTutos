@@ -11,13 +11,13 @@ public class AppTest
     extends TestCase
 {
     /**
-     * Create the test case
+     * Create the test case code
      *
-     * @param testName name of the test case
+     * @param name name of the test case
      */
-    public AppTest( String testName )
+    public AppTest( String name )
     {
-        super( testName );
+        super( name );
     }
 
     /**
@@ -33,6 +33,6 @@ public class AppTest
      */
     public void testApp()
     {
-        assertTrue( true );
+        assertTrue( false );
     }
 }
