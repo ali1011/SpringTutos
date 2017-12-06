@@ -15,7 +15,7 @@ public class App {
 		
 		disply();
 		System.out.println("ok");
-		System.out.println("great Women");
+		System.out.println("Erin is a great Women");
 		
 		{
 			
